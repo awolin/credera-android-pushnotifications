@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushNotificationSpike</string>
+
+    <string name="ignore">Ignore</string>
+    <string name="error_google_services_missing_push">This app requires Google Play Services to send you notifications.</string>
+    <string name="error_device_not_supported">This device is not supported.</string>
+</resources>
