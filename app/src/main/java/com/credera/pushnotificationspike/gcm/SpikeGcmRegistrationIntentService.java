@@ -68,7 +68,7 @@ public class SpikeGcmRegistrationIntentService extends IntentService {
         try {
             final String deviceId = sharedPreferences.getString(PREFS_REGISTRATION_ID, null);
             if (deviceId != null) {
-                Log.i(TAG, "GCM registration token already sent: " + deviceId);
+                Log.i(TAG, "GCM registration token already sent:\n" + deviceId);
                 return;
             }
 
@@ -82,7 +82,7 @@ public class SpikeGcmRegistrationIntentService extends IntentService {
                         GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
 
                 // Log the Token for debugging purposes
-                Log.i(TAG, "GCM Registration Token: " + token);
+                Log.i(TAG, "GCM Registration Token:\n" + token);
 
                 // Send the token to 3rd-party servers
                 sendRegistrationToServer(token);

@@ -2,46 +2,18 @@
 <items version="2" >
 
     <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/classes-185b250dfea50f4bf533d2bfbb0080cb727e03b1.jar" />
+    </item>
+    <item
         jar="/Users/aaronwolin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
         <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/gson-2.4-7d51dd57c47ac080f8242629652c116f3a2a9a39.jar" />
-    </item>
-    <item
-        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-562fb4ae746909ddeee06201e032338cf5eb5254.jar" />
-    </item>
-    <item
-        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-c3cfe1894904d01237528fb1fecaea17407c4727.jar" />
-    </item>
-    <item
-        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-a697e4b60396595b447200a16d8d24133595bb07.jar" />
-    </item>
-    <item
-        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-900958a5281bb709b5eda73fa3399f59cefb9545.jar" />
-    </item>
-    <item
-        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-1211bc7a3806573007803782eac31bf33311902a.jar" />
     </item>
     <item
         jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
@@ -51,11 +23,81 @@
         <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-98fc9332ec8ea8b3654a9caeeaf5b32ded09fe91.jar" />
     </item>
     <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/classes-34c36ae050a1a472e2ef7b37472116f8118ad447.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-a697e4b60396595b447200a16d8d24133595bb07.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-c3cfe1894904d01237528fb1fecaea17407c4727.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-900958a5281bb709b5eda73fa3399f59cefb9545.jar" />
+    </item>
+    <item
         jar="/Users/aaronwolin/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
         <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-06f570635c99c53ba4175f9fecc2936a9e507981.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-7b46689e41fe490ae992594a58c44bb59ab33e01.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/classes-833f9dbeb91a604bd1ce9bfea0b4fc76cd0a8c57.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/classes-1211bc7a3806573007803782eac31bf33311902a.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/classes-86b56d0af4072fc9e3e72e79c9ce4cf48653b482.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/aaronwolin/AndroidStudioProjects/PushNotificationSpike/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-562fb4ae746909ddeee06201e032338cf5eb5254.jar" />
+    </item>
+    <item
+        jar="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/aaronwolin/Dropbox/Dev/Credera/Spikes/credera-android-pushnotifications/app/build/intermediates/pre-dexed/debug/classes-19ad80c9b2a8f0609d28d6e99eda661df464449f.jar" />
     </item>
 
 </items>
