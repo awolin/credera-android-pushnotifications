@@ -6,7 +6,7 @@ package com.credera.pushnotificationspike;
 public class Constants {
 
     public static class GoogleCloudMessaging {
-        private static final String TEST = "273347229193";
+        private static final String TEST = "API TEST KEY";
 
         public static final String ID = TEST;
     }
